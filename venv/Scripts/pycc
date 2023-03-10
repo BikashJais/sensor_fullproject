@@ -1,0 +1,3 @@
+#!C:\Users\Bikash\Desktop\IMPORTNT\APS fault detection\venv\python.exe
+from numba.pycc import main
+main()
